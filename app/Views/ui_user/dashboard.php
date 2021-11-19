@@ -100,7 +100,6 @@
                                 echo $total->jumlah_bayar;
                                 ?>
 
-
                             </div>
                             <div class="weight-600 font-14">Pemasukan</div>
                         </div>
