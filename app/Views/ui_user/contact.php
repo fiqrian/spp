@@ -3,7 +3,7 @@
 		<div class="card-box bg-white pd-20 height-100-p mb-30">
 			<div class="container">
 				<h2>Contact</h2>
-				<h2>Contact conflict</h2>
+				<h3>Contact conflict</h3>
 				<div class="row">
 					<div class="col-lg-6">
 						<?php echo $this->session->flashdata('msg'); ?>
